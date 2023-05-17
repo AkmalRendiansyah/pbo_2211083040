@@ -17,7 +17,7 @@ public class Pdam {
     private String diskon;
     public Pdam(){}
     
-    public Pdam(String kodeanggota, String nama, String meterbulanini,String meterbulanlalu,String tarif,String diskon){
+    public Pdam(String kodepelanggan, String nama, String meterbulanini,String meterbulanlalu,String tarif,String diskon){
         this.kodepelanggan = kodepelanggan;
         this.nama = nama;
         this.meterbulanini = meterbulanini;
